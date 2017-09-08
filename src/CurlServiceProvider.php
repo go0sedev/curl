@@ -6,7 +6,7 @@ use Illuminate\Support\ServiceProvider;
 
 /**
  * Class CurlServiceProvider
- * @package gustavtrenwith\coinbase
+ * @package gustavtrenwith\curl
  * @author Gustav Trenwith <gtrenwith@gmail.com>
  */
 class CurlServiceProvider extends ServiceProvider {

@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Facade;
 
 /**
  * Class CurlFacade
- * @package gustavtrenwith\coinbase
+ * @package gustavtrenwith\curl
  * @author Gustav Trenwith <gtrenwith@gmail.com>
  */
 class CurlFacade extends Facade

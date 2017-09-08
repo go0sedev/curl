@@ -4,7 +4,7 @@ namespace GustavTrenwith\Curl;
 
 /**
  * Class Curl
- * @package gustavtrenwith\coinbase
+ * @package gustavtrenwith\curl
  * @author Gustav Trenwith <gtrenwith@gmail.com>
  */
 class Curl
