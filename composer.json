@@ -3,7 +3,7 @@
     "description": "A PHP Curl library implimentation",
     "keywords": ["laravel", "gustavtrenwith", "curl", "php"],
     "license": "MIT License",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "authors": [
         {
           "name": "Gustav Trenwith",
