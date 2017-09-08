@@ -162,7 +162,7 @@ class Curl
                 break;
         }
 
-        if (isset($auth)) {
+        if (isset($auth["username"]) && isset($auth["password"])) {
             curl_setopt($curl, CURLOPT_USERPWD, $auth["username"].":".$auth["password"]);
         }
 
